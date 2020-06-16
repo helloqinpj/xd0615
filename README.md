@@ -9,6 +9,7 @@
    然后 git clone （地址）
  3.在本地编辑 第一种，直接打开那个文件（用记事本），然后修改内容，并保存。
               第二种，在git上编辑  vim+文件名  然后刚进去是命令模式，按“i”转到编辑模式，除了esc和鼠标，其他都可以用。                       然后这个里复制粘贴不是 Ctrl +c,v,直接右键搞。esc从编辑模式转为命令模式，然后退出有两种方式  ：wq                       或大写ZZ
+              更多操作  https://www.runoob.com/linux/linux-vim.html
 4.git add+要上传的文件名    
   git commit -m “注释”
   git push
