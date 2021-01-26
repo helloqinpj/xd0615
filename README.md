@@ -14,3 +14,5 @@
   git commit -m “注释”
   git push
   就把这些保存到仓库里了
+
+前面写的有点乱，https://www.cnblogs.com/jinzhaozhao/p/10012504.html   这儿有非常详细地操作流程
