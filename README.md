@@ -16,3 +16,5 @@
   就把这些保存到仓库里了
 
 前面写的有点乱，https://www.cnblogs.com/jinzhaozhao/p/10012504.html   这儿有非常详细地操作流程
+
+1.27  一早上 折腾出来的  先 git add +文件名  再 [git commit -m ""](少了这一步，折腾了一早上)  zuihou1 git push
